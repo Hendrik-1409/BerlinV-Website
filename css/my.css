@@ -1,0 +1,13 @@
+.teamkat {
+    color: crimson;
+}
+
+.mitglied {
+    color: orange;
+}
+
+.red {
+    color: rgb(255, 255, 255);
+    border-color: gold;
+    border-style: dashed;
+}
